@@ -5,7 +5,7 @@ It allows users to create, edit, and download resumes with a clean and intuitive
 
 🌐 Live Demo: https://aicvmaker-v1.vercel.app
 
----
+
 
 ## ✨ Features
 
@@ -17,5 +17,4 @@ It allows users to create, edit, and download resumes with a clean and intuitive
 - 📱 Fully responsive design
 - ☁️ Cloud deployment with Vercel
 
----
 
